@@ -1,0 +1,12 @@
+.pio
+.vscode
+src/config.h
+lib/ArduinoJson
+lib/LovyanGFX-master
+lib/Lvgl
+lib/TFT_eSPI
+lib/Time
+lib/lv_conf.h
+debug_custom.json
+debug.cfg
+debug.svd
